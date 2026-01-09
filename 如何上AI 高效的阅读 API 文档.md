@@ -30,6 +30,7 @@ AI最易读的内容是什么样的：
 尝试方案：
 1. 网页转 html 或者 markdown 
 	试了一下，限制颇多，或者很繁琐，如[https://github.com/zxmfke/deepwiki-md-chrome-extension]()
+	直接command+s保存，结构很混乱，而且只能保存单页
 
 
 
