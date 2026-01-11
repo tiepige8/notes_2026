@@ -31,6 +31,8 @@ AI最易读的内容是什么样的：
 1. 网页转 html 或者 markdown 
 	试了一下，限制颇多，或者很繁琐，如[https://github.com/zxmfke/deepwiki-md-chrome-extension]()
 	直接command+s保存，结构很混乱，而且只能保存单页
+2. 生成清晰的长图。
 
-
-
+0112 更新
+发现一个好用的插件，# SingleFile，可以直接把文档保存为 html 格式，保存后格式不会乱，图片和样式都会清晰的展示。
+[https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle]()
