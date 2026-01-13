@@ -36,3 +36,6 @@ AI最易读的内容是什么样的：
 0112 更新
 发现一个好用的插件，# SingleFile，可以直接把文档保存为 html 格式，保存后格式不会乱，图片和样式都会清晰的展示。
 [https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle]()
+
+0114 更新
+SingleFile在 codex 里塞进去，上下文瞬间爆炸，聊三次轮就不行了，所以需要继续压缩。
