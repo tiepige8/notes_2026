@@ -38,4 +38,4 @@ AI最易读的内容是什么样的：
 [https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle]()
 
 0114 更新
-SingleFile在 codex 里塞进去，上下文瞬间爆炸，聊三次轮就不行了，所以需要继续压缩。
+SingleFile在 codex 里塞进去，上下文瞬间爆炸，聊三四轮就不行了，所以需要继续找可靠的压缩方案。
