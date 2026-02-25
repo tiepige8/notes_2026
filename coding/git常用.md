@@ -7,6 +7,8 @@ https://mp.weixin.qq.com/s/fOaXwvlEioTZr1pybWeOKQ
 3. 本地仓库，git commit之后，代码就正式存档到你本地的Git仓库里了。
 4. 远程仓库，用git push把本地存档同步到GitHub或者GitLab上，相当于云存档。
 
+git为什么需要一个暂存区，直接工作区到本地仓库不就行了吗？
+
 
 # 常用代码：
 1. 
